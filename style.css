@@ -1,0 +1,22 @@
+body {
+    box-sizing: border-box;
+}
+
+#_title {
+    text-align: center;
+    font-size: 70px;
+    padding: 20px ;
+}
+
+#_cards {
+   padding-left: 4%;
+    align-items: center;
+}
+
+._card {
+    padding: 10px 20px 10px 10px;
+}
+
+._navbar {
+    padding: 60px 10px;
+}
